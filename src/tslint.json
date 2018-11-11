@@ -7,6 +7,18 @@
             "app",
             "camelCase"
         ],
+        "quotemark": [
+          true,
+          "single"
+        ],
+        "semicolon": [
+          true,
+          "never"
+        ],
+        "max-line-length": [
+          true,
+          120
+        ],
         "component-selector": [
             true,
             "element",
